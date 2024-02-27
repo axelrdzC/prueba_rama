@@ -1,2 +1,2 @@
 # prueba_rama
-ola
+ola este es mi primer repositorio, nuestro
